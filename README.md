@@ -9,4 +9,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cmsflash&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
 
-<p align="center"> Know more about me at  https://cmsflash.github.io/ </p>
+<p align="center"> Know more about me at  https://cmsflash.github.io/. </p>
