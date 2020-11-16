@@ -2,8 +2,8 @@
 <h1 align="center">Hi there! </h1>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/followers/cmsflash?label=Followers" width="95px" alt="github follow" />
-  <img src="https://komarev.com/ghpvc/?username=cmsflash" width="129px" alt="profile views" /> 
+  <img src="https://img.shields.io/github/followers/cmsflash?label=Followers" alt="github follow" />
+  <img src="https://komarev.com/ghpvc/?username=cmsflash" alt="profile views" /> 
 </p>
 
 
